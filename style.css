@@ -1,0 +1,94 @@
+body {
+    background-image: linear-gradient(#FFFFFF,#0EAE00,#FFE600,#0EAE00,#000000);
+    font-family: sans-serif;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    padding:5px;
+    margin: 5px;
+}
+.a{
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #8000FF;
+}
+.b{
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #001AFF;
+}
+.c{
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #FF0000;
+}
+.d{
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #00FF1A;
+}
+.e{
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
+nav{
+    text-align: center;
+}
+.logo{
+    width:100px;
+    height:100px ;
+}
+.buts{
+    position: relative ;
+    right: 80;
+    width:300px;
+    height:330px;
+}
+.mains{
+    width: 325px;
+    height: 280px;
+}
+.nots{
+    border-radius: 360px;
+    text-align: center;
+    width:100px;
+    height:100px; 
+}
+.foot{
+    float: right;
+    width: 50px;
+    height: 50px;
+}
+.catalog{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}
+.ai{
+  display: flex;
+  justify-content: space-between; 
+}
+.pa{
+    text-align: center;
+}
+h2{
+   text-align: center; 
+}
+h1{
+    text-align: center;
+}
+.nigar{
+    color: #FFFFFF;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(#FF0101,#FAFF17);
+}
+.mi{
+    margin-left: 20px;
+    font-size: 18px;
+ display: inline-block;
+}
