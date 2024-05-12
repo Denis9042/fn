@@ -97,3 +97,33 @@ footer{
     font-size: 18px;
  display: inline-block;
 }
+.a:hover{
+    background-color:yellow;
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
+.b:hover{
+    background-color:yellow;
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
+.c:hover{
+    background-color:yellow;
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
+.d:hover{
+    background-color:yellow;
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
+.e:hover{
+    background-color:yellow;
+    border-radius: 5px;
+    color: #000000;
+border: 5px solid #000000;
+}
