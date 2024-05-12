@@ -9,26 +9,31 @@ a{
     margin: 5px;
 }
 .a{
+    background-color:yellow;
     border-radius: 5px;
     color: #000000;
 border: 5px solid #8000FF;
 }
 .b{
+    background-color:yellow;
     border-radius: 5px;
     color: #000000;
 border: 5px solid #001AFF;
 }
 .c{
+    background-color:yellow;
     border-radius: 5px;
     color: #000000;
 border: 5px solid #FF0000;
 }
 .d{
+    background-color:yellow;
     border-radius: 5px;
     color: #000000;
 border: 5px solid #00FF1A;
 }
 .e{
+    background-color:yellow;
     border-radius: 5px;
     color: #000000;
 border: 5px solid #000000;
